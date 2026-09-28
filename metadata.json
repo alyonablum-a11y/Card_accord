@@ -1,0 +1,6 @@
+{
+  "name": "Clavier Harmony",
+  "description": "Interactive visual classical harmony trainer and piano visualizer for home practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
